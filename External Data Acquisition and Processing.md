@@ -80,5 +80,3 @@ pheatmap(test, scale = "row", annotation_col = annotation_col,
 
 
 
-
-
