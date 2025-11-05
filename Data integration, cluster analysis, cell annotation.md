@@ -192,8 +192,8 @@ pbmc_markers = allmarkers
 single_model_results <- annotate_cell_types(
   input = allmarkers,
   tissue_name ="Single cell  sequencing of PBMC", # 
-  model = "deepseek-reasoner",  # 指定单个模型
-  api_key = "sk-cb2154221c7b4d7aae6776d02ea28559",  # 直接提供API密钥
+  model = "deepseek-reasoner",  # single model
+  api_key = "xxxx-xxxx-xxxx-xxxx-xxxx",  # API key
   top_gene_count = 10
 )
 
